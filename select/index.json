@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "愛が一層メロウ",
+  "base_artist": "RIKON",
+  "createdAt": "2025-12-01T18:40:59.165660Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛が一層メロウ",
+      "artist": "離婚伝説",
+      "has_synced": false,
+      "path": "select/pl_01_愛が一層メロウ_離婚伝説.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛が一層メロウ",
+      "artist": "離婚伝説",
+      "has_synced": false,
+      "path": "select/pl_02_愛が一層メロウ_離婚伝説.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛が一層メロウ",
+      "artist": "離婚伝説",
+      "has_synced": false,
+      "path": "select/pl_03_愛が一層メロウ_離婚伝説.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛が一層メロウ",
+      "artist": "離婚伝説",
+      "has_synced": false,
+      "path": "select/pl_04_愛が一層メロウ_離婚伝説.txt"
+    }
+  ]
+}
